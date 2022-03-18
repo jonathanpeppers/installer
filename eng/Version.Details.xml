@@ -166,10 +166,6 @@
       <Sha>698fdad58fa64a55f16cd9562c90224cc498ed02</Sha>
       <SourceBuildTarball RepoName="xdt" ManagedOnly="true" />
     </Dependency>
-    <Dependency Name="Microsoft.NET.Workload.Emscripten.Manifest-6.0.200" Version="6.0.2">
-      <Uri>https://github.com/dotnet/emsdk</Uri>
-      <Sha>ee0a97a0009c0e048789126253fea7994db676ac</Sha>
-    </Dependency>
     <Dependency Name="Microsoft.SourceBuild.Intermediate.source-build" Version="0.1.0-alpha.1.21519.2" CoherentParentDependency="Microsoft.NET.Sdk">
       <Uri>https://github.com/dotnet/source-build</Uri>
       <Sha>10d0f7e94aa45889155c312f51cfc01bf326b853</Sha>

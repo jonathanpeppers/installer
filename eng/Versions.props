@@ -177,14 +177,13 @@
   <!-- Workload manifest package versions -->
   <PropertyGroup>
     <MauiWorkloadManifestVersion>6.0.200-preview.13.2747</MauiWorkloadManifestVersion>
-    <XamarinAndroidWorkloadManifestVersion>31.0.200-preview.13.41</XamarinAndroidWorkloadManifestVersion>
-    <XamarinIOSWorkloadManifestVersion>15.2.301-preview.13.2</XamarinIOSWorkloadManifestVersion>
-    <XamarinMacCatalystWorkloadManifestVersion>15.2.301-preview.13.2</XamarinMacCatalystWorkloadManifestVersion>
-    <XamarinMacOSWorkloadManifestVersion>12.1.301-preview.13.2</XamarinMacOSWorkloadManifestVersion>
-    <XamarinTvOSWorkloadManifestVersion>15.2.301-preview.13.2</XamarinTvOSWorkloadManifestVersion>
-    <MonoWorkloadManifestVersion>6.0.2-mauipre.1.22102.15</MonoWorkloadManifestVersion>
-    <MicrosoftNETWorkloadEmscriptenManifest60200Version>6.0.2</MicrosoftNETWorkloadEmscriptenManifest60200Version>
-    <EmscriptenWorkloadManifestVersion>$(MicrosoftNETWorkloadEmscriptenManifest60200Version)</EmscriptenWorkloadManifestVersion>
+    <XamarinAndroidWorkloadManifestVersion>31.0.300-rc.1.21</XamarinAndroidWorkloadManifestVersion>
+    <XamarinIOSWorkloadManifestVersion>15.2.303-rc.1.55</XamarinIOSWorkloadManifestVersion>
+    <XamarinMacCatalystWorkloadManifestVersion>15.2.303-rc.1.55</XamarinMacCatalystWorkloadManifestVersion>
+    <XamarinMacOSWorkloadManifestVersion>12.1.303-rc.1.55</XamarinMacOSWorkloadManifestVersion>
+    <XamarinTvOSWorkloadManifestVersion>15.2.303-rc.1.55</XamarinTvOSWorkloadManifestVersion>
+    <MonoWorkloadManifestVersion>6.0.4</MonoWorkloadManifestVersion>
+    <EmscriptenWorkloadManifestVersion>6.0.4</EmscriptenWorkloadManifestVersion>
   </PropertyGroup>
   <PropertyGroup>
     <!-- pinned dependency. This package is not being produced outside of the 2.0 branch of corefx and should not change. -->
